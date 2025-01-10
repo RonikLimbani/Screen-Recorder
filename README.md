@@ -10,4 +10,4 @@ Android Studio verison used : ``Android Studio Ladybug | 2024.2.2 Patch 3``
 
 | Notification Permission | Projection Permission | Record Screen | 
 |-------------------------|-----------------------|---------------|
-| <img src="screenshots/notification_permission.png" width="250"> | <img src="screenshots/projection_permission.png" width="250"> | <video  src="screenshots/screen_recording.mp4" width="250"> |
+| <img src="screenshots/notification_permission.png" width="250"> | <img src="screenshots/projection_permission.png" width="250"> | <video src="https://github.com/RonikLimbani/Screen-Recorder/blob/main/screenshots/screen_recording.mp4" width="250"> |
